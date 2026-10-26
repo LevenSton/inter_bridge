@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 830" width="1240" height="830" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Source Han Sans SC, sans-serif" role="img">
+<defs><marker id="ah-gray" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6b7280"/></marker><marker id="ah-yellow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b7791f"/></marker><marker id="ah-purple" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6d28d9"/></marker><marker id="ah-orange" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#c2410c"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#0f766e"/></marker><marker id="ah-green" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#2f7d32"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b91c1c"/></marker><marker id="ah-blue" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#1d4ed8"/></marker></defs>
+<rect width="1240" height="830" fill="#ffffff"/>
+<rect x="40" y="98" width="570" height="640" rx="12" fill="#f6f9ff" stroke="#1d4ed8" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="56.0" y="122.0" font-size="13.5" fill="#1d4ed8" text-anchor="start" font-weight="700">买入 · Solana USDC → BSC meme</text>
+<rect x="650" y="98" width="570" height="640" rx="12" fill="#fffaf6" stroke="#c2410c" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="666.0" y="122.0" font-size="13.5" fill="#c2410c" text-anchor="start" font-weight="700">卖出 · BSC meme → Solana USDC</text>
+<path d="M972.0,585.0 L992.0,585.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,529.0 L992.0,529.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,529.0 L972.0,585.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M940.0,549.0 L972.0,549.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M972.0,173.0 L992.0,173.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,171.0 L972.0,173.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M940.0,171.0 L972.0,171.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M716.0,580.0 L716.0,644.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M716.0,454.0 L716.0,518.0" fill="none" stroke="#6d28d9" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-purple)"/>
+<path d="M716.0,328.0 L716.0,392.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M716.0,202.0 L716.0,266.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M362.0,415.0 L382.0,415.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,415.0 L362.0,423.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M330.0,423.0 L362.0,423.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M362.0,285.0 L382.0,285.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,285.0 L362.0,297.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M330.0,297.0 L362.0,297.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M362.0,173.0 L382.0,173.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,171.0 L362.0,173.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M330.0,171.0 L362.0,171.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M106.0,580.0 L106.0,644.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M106.0,454.0 L106.0,518.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M106.0,328.0 L106.0,392.0" fill="none" stroke="#6d28d9" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-purple)"/>
+<path d="M106.0,202.0 L106.0,266.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<text x="40.0" y="46.0" font-size="22" fill="#1f2937" text-anchor="start" font-weight="700">图 6  Pump Bridge 资金流转（第一次实测：1 USDC 买入，再全部卖出）</text>
+<text x="40.0" y="74.0" font-size="13" fill="#4b5563" text-anchor="start">实线 = 资金移动　虚线 = Pump 内部记账 / 事件　红色 = Pump 扣的钱　灰色 = Pump 代付的 gas</text>
+<rect x="62" y="140" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="196.0" y="166.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 Solana 钱包 CS4Um…</text>
+<text x="196.0" y="185.0" font-size="12" fill="#4b5563" text-anchor="middle">付出 1.000000 USDC</text>
+<rect x="62" y="266" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="196.0" y="292.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Pump Solana 金库 5Zs2Gi…</text>
+<text x="196.0" y="311.0" font-size="12" fill="#4b5563" text-anchor="middle">+1.000000 USDC</text>
+<rect x="62" y="392" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="196.0" y="418.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Pump BSC 金库 0x836b…</text>
+<text x="196.0" y="437.0" font-size="12" fill="#4b5563" text-anchor="middle">拿出 0.945500 USDC</text>
+<rect x="62" y="518" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="196.0" y="544.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">0x 聚合器 → Pancake V3</text>
+<text x="196.0" y="563.0" font-size="12" fill="#4b5563" text-anchor="middle">USDC → WBNB → meme</text>
+<rect x="62" y="644" width="268" height="62" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="196.0" y="670.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 BSC 地址 0x3b7d…</text>
+<text x="196.0" y="689.0" font-size="12" fill="#4b5563" text-anchor="middle">收到 66.806 meme</text>
+<text x="116.0" y="230.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">1.000000 USDC</text>
+<text x="116.0" y="246.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">（FHpc… 代付 SOL 网络费）</text>
+<text x="116.0" y="356.0" font-size="12" fill="#6d28d9" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">内部账本 orderId 0x13cd…</text>
+<text x="116.0" y="372.0" font-size="12" fill="#6d28d9" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">（两笔交易同一秒）</text>
+<text x="116.0" y="490.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">0.945500 USDC</text>
+<text x="116.0" y="616.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">66.806 meme</text>
+<rect x="382" y="150" width="210" height="46" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="487.0" y="169.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">Solana 网络费 $0.0016</text>
+<text x="487.0" y="185.6" font-size="11" fill="#4b5563" text-anchor="middle">FHpc… 代付</text>
+<rect x="382" y="262" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="487.0" y="281.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">留在金库 0.054500</text>
+<text x="487.0" y="297.6" font-size="11" fill="#4b5563" text-anchor="middle">5.45%：0.45% + 约 $0.05（推测）</text>
+<rect x="382" y="392" width="210" height="46" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="487.0" y="411.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">BSC gas ≈ $0.014</text>
+<text x="487.0" y="427.6" font-size="11" fill="#4b5563" text-anchor="middle">0x6733… 代付</text>
+<rect x="672" y="140" width="268" height="62" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="806.0" y="166.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 BSC 地址 0x3b7d…</text>
+<text x="806.0" y="185.0" font-size="12" fill="#4b5563" text-anchor="middle">66.806 meme</text>
+<rect x="672" y="266" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="806.0" y="292.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">0x 聚合器 → Pancake V3</text>
+<text x="806.0" y="311.0" font-size="12" fill="#4b5563" text-anchor="middle">meme → WBNB → USDC</text>
+<rect x="672" y="392" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="806.0" y="418.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Pump BSC 金库 0x836b…</text>
+<text x="806.0" y="437.0" font-size="12" fill="#4b5563" text-anchor="middle">收回 0.921972 USDC</text>
+<rect x="672" y="518" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="806.0" y="544.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Pump Solana 金库 5Zs2Gi…</text>
+<text x="806.0" y="563.0" font-size="12" fill="#4b5563" text-anchor="middle">拿出 0.921972 USDC</text>
+<rect x="672" y="644" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="806.0" y="670.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 Solana 钱包 CS4Um…</text>
+<text x="806.0" y="689.0" font-size="12" fill="#4b5563" text-anchor="middle">收到 0.899372 USDC</text>
+<text x="726.0" y="230.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">7702：approve + sell</text>
+<text x="726.0" y="246.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">（0x6733… 付 gas）</text>
+<text x="726.0" y="364.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">0.921972 USDC</text>
+<text x="726.0" y="490.0" font-size="12" fill="#6d28d9" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Sold 事件（约 1 s 后出金）</text>
+<text x="726.0" y="616.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">0.899372 USDC（6aQt… 签名）</text>
+<rect x="992" y="150" width="210" height="46" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="1097.0" y="169.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">BSC gas ≈ $0.018</text>
+<text x="1097.0" y="185.6" font-size="11" fill="#4b5563" text-anchor="middle">Pump 先付，卖出时扣回</text>
+<rect x="992" y="506" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1097.0" y="525.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">平台费 0.004148</text>
+<text x="1097.0" y="541.6" font-size="11" fill="#4b5563" text-anchor="middle">0.45% → KfHbT5…</text>
+<rect x="992" y="562" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1097.0" y="581.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">gas 实报实销 0.018452</text>
+<text x="1097.0" y="597.6" font-size="11" fill="#4b5563" text-anchor="middle">与链上 gas 完全相等</text>
+<rect x="40" y="756" width="1180" height="50" rx="10" fill="#fdf3d7" stroke="#b7791f" stroke-width="2"/>
+<text x="630.0" y="777.0" font-size="13.5" fill="#1f2937" text-anchor="middle" font-weight="700">来回：1.000000 → 0.899372 USDC，损耗 10.06%</text>
+<text x="630.0" y="794.5" font-size="11.5" fill="#4b5563" text-anchor="middle">Pump 收约 0.077（买入 0.0545 + 卖出 0.0226）；两次 DEX 成本 + 6 分钟行情约 0.0235；金额越小，固定费占比越高</text>
+</svg>

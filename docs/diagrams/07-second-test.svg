@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 900" width="1240" height="900" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Source Han Sans SC, sans-serif" role="img">
+<defs><marker id="ah-gray" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6b7280"/></marker><marker id="ah-yellow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b7791f"/></marker><marker id="ah-purple" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6d28d9"/></marker><marker id="ah-orange" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#c2410c"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#0f766e"/></marker><marker id="ah-green" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#2f7d32"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b91c1c"/></marker><marker id="ah-blue" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#1d4ed8"/></marker></defs>
+<rect width="1240" height="900" fill="#ffffff"/>
+<rect x="40" y="98" width="570" height="712" rx="12" fill="#f6fcfa" stroke="#0f766e" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="56.0" y="122.0" font-size="13.5" fill="#0f766e" text-anchor="start" font-weight="700">买入 · 0.009888 SOL → BSC meme（Relay）</text>
+<rect x="650" y="98" width="570" height="712" rx="12" fill="#fffaf6" stroke="#c2410c" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="666.0" y="122.0" font-size="13.5" fill="#c2410c" text-anchor="start" font-weight="700">卖出 · BSC meme → SOL（Pump Bridge + Jupiter）</text>
+<path d="M972.0,495.0 L992.0,495.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,439.0 L992.0,439.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,383.0 L992.0,383.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,383.0 L972.0,495.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M940.0,423.0 L972.0,423.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M716.0,580.0 L716.0,644.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M716.0,454.0 L716.0,518.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M716.0,328.0 L716.0,392.0" fill="none" stroke="#6d28d9" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-purple)"/>
+<path d="M716.0,202.0 L716.0,266.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M362.0,464.0 L382.0,464.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,412.0 L382.0,412.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,360.0 L382.0,360.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,308.0 L382.0,308.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,256.0 L382.0,256.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,204.0 L382.0,204.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,204.0 L362.0,464.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M330.0,297.0 L362.0,297.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M106.0,580.0 L106.0,644.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M106.0,454.0 L106.0,518.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M106.0,328.0 L106.0,392.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-blue)"/>
+<path d="M106.0,202.0 L106.0,266.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<text x="40.0" y="46.0" font-size="22" fill="#1f2937" text-anchor="start" font-weight="700">图 7  第二次实测：用 SOL 买 → 走 Relay；卖出 → 走 Pump Bridge 并换回 SOL</text>
+<text x="40.0" y="74.0" font-size="13" fill="#4b5563" text-anchor="start">左：Relay 官方 API 的费用明细（橙 = Relay / Solver 拿走，紫 = Pump 拿到，绿 = 返还）　右：链上逐位对账</text>
+<rect x="62" y="140" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="196.0" y="166.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 Solana 钱包</text>
+<text x="196.0" y="185.0" font-size="12" fill="#4b5563" text-anchor="middle">0.009888 SOL ≈ $0.9999 · 自付网络费</text>
+<rect x="62" y="266" width="268" height="62" rx="10" fill="#e8effc" stroke="#1d4ed8" stroke-width="2"/>
+<text x="196.0" y="292.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Relay Depository 99vQwt…</text>
+<text x="196.0" y="311.0" font-size="12" fill="#4b5563" text-anchor="middle">锁定 0.009888 SOL</text>
+<rect x="62" y="392" width="268" height="62" rx="10" fill="#dcf5ef" stroke="#0f766e" stroke-width="2"/>
+<text x="196.0" y="418.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Relay Solver 0xcc4b…</text>
+<text x="196.0" y="437.0" font-size="12" fill="#4b5563" text-anchor="middle">垫付 0.924174 USDC + BSC gas $0.035</text>
+<rect x="62" y="518" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="196.0" y="544.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Relay Router → KyberSwap</text>
+<text x="196.0" y="563.0" font-size="12" fill="#4b5563" text-anchor="middle">USDC → USDT → BNB → meme</text>
+<rect x="62" y="644" width="268" height="62" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="196.0" y="670.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 BSC 地址</text>
+<text x="196.0" y="689.0" font-size="12" fill="#4b5563" text-anchor="middle">收到 1505.79 meme ≈ $0.9246</text>
+<text x="116.0" y="238.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">DepositNative</text>
+<text x="116.0" y="364.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">存款事件（约 1 s 后填单）</text>
+<text x="116.0" y="490.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">0.924174 USDC</text>
+<text x="116.0" y="616.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">1505.79 meme</text>
+<rect x="382" y="182" width="210" height="44" rx="10" fill="#fde8dc" stroke="#c2410c" stroke-width="2"/>
+<text x="487.0" y="200.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">gas $0.0582</text>
+<text x="487.0" y="216.6" font-size="11" fill="#4b5563" text-anchor="middle">实际链上只花 $0.035</text>
+<rect x="382" y="234" width="210" height="44" rx="10" fill="#fde8dc" stroke="#c2410c" stroke-width="2"/>
+<text x="487.0" y="252.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">固定费 $0.0200</text>
+<text x="487.0" y="268.6" font-size="11" fill="#4b5563" text-anchor="middle">Execution fixed</text>
+<rect x="382" y="286" width="210" height="44" rx="10" fill="#fde8dc" stroke="#c2410c" stroke-width="2"/>
+<text x="487.0" y="304.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">换币价差 $0.0042</text>
+<text x="487.0" y="320.6" font-size="11" fill="#4b5563" text-anchor="middle">SOL → USDC</text>
+<rect x="382" y="338" width="210" height="44" rx="10" fill="#fde8dc" stroke="#c2410c" stroke-width="2"/>
+<text x="487.0" y="356.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">Relay 平台费 $0.0015</text>
+<text x="487.0" y="372.6" font-size="11" fill="#4b5563" text-anchor="middle">15 bps</text>
+<rect x="382" y="390" width="210" height="44" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="487.0" y="408.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">Pump App Fee $0.0015</text>
+<text x="487.0" y="424.6" font-size="11" fill="#4b5563" text-anchor="middle">15 bps</text>
+<rect x="382" y="442" width="210" height="44" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="487.0" y="460.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">返还 +$0.0074</text>
+<text x="487.0" y="476.6" font-size="11" fill="#4b5563" text-anchor="middle">Pump 补贴 $0.0015 + 正滑点 $0.0058</text>
+<text x="382.0" y="174.0" font-size="11.5" fill="#4b5563" text-anchor="start">Relay 报价扣费</text>
+<rect x="62" y="728" width="520" height="58" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="322.0" y="753.0" font-size="13.5" fill="#1f2937" text-anchor="middle" font-weight="700">损耗 $0.0753（7.53%）</text>
+<text x="322.0" y="770.5" font-size="11.5" fill="#4b5563" text-anchor="middle">Relay + Solver 拿走约 $0.072，Pump 净收入约等于 0</text>
+<rect x="672" y="140" width="268" height="62" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="806.0" y="166.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 BSC 地址</text>
+<text x="806.0" y="185.0" font-size="12" fill="#4b5563" text-anchor="middle">1505.79 meme</text>
+<rect x="672" y="266" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="806.0" y="292.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Pump BSC 金库 0x836b…</text>
+<text x="806.0" y="311.0" font-size="12" fill="#4b5563" text-anchor="middle">经 0x 换得 0.923175 USDC，留在金库</text>
+<rect x="672" y="392" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="806.0" y="418.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Pump Solana 金库 5Zs2Gi…</text>
+<text x="806.0" y="437.0" font-size="12" fill="#4b5563" text-anchor="middle">AdminDebit × 2</text>
+<rect x="672" y="518" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="806.0" y="544.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Jupiter（经 Tessera V 池）</text>
+<text x="806.0" y="563.0" font-size="12" fill="#4b5563" text-anchor="middle">0.899776 USDC → 0.008905774 SOL</text>
+<rect x="672" y="644" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="806.0" y="670.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 Solana 钱包</text>
+<text x="806.0" y="689.0" font-size="12" fill="#4b5563" text-anchor="middle">收到 0.008906913 SOL ≈ $0.8999</text>
+<text x="726.0" y="230.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Pump 代付 gas（7702 已生效，</text>
+<text x="726.0" y="246.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">这次是普通 type 2 交易）</text>
+<text x="726.0" y="364.0" font-size="12" fill="#6d28d9" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Sold 事件（约 1 s 后出金）</text>
+<text x="726.0" y="490.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">0.899776 USDC（同一笔交易）</text>
+<text x="726.0" y="616.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">SOL（Pump 补了 1139 lamports）</text>
+<rect x="992" y="360" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1097.0" y="379.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">平台费 0.004154</text>
+<text x="1097.0" y="395.6" font-size="11" fill="#4b5563" text-anchor="middle">0.45% → KfHbT5…</text>
+<rect x="992" y="416" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1097.0" y="435.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">gas 实报实销 0.019245</text>
+<text x="1097.0" y="451.6" font-size="11" fill="#4b5563" text-anchor="middle">BSC 卖出 gas，留在金库</text>
+<rect x="992" y="472" width="210" height="46" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="1097.0" y="491.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">Jupiter 换币成本</text>
+<text x="1097.0" y="507.6" font-size="11" fill="#4b5563" text-anchor="middle">从用户净额里出</text>
+<rect x="672" y="728" width="520" height="58" rx="10" fill="#fdf3d7" stroke="#b7791f" stroke-width="2"/>
+<text x="932.0" y="753.0" font-size="13.5" fill="#1f2937" text-anchor="middle" font-weight="700">卖出规则和第一次完全一样</text>
+<text x="932.0" y="770.5" font-size="11.5" fill="#4b5563" text-anchor="middle">0.45% + gas 实报实销；要 SOL 就在出金交易里用 Jupiter 换</text>
+<text x="40.0" y="842.0" font-size="13" fill="#1f2937" text-anchor="start" font-weight="600">结论：Pump 现在是混合路由。用 USDC 买走 Pump Bridge，用 SOL 买仍然走 Relay，卖出一律走 Pump Bridge。</text>
+<text x="40.0" y="868.0" font-size="12.5" fill="#4b5563" text-anchor="start">走 Relay 时 Pump 几乎赚不到钱，走自营时能收 0.45% + 约 $0.05，这是 Pump 把路由收回自己手里的直接原因。</text>
+</svg>

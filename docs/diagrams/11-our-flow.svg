@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 960" width="1240" height="960" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Source Han Sans SC, sans-serif" role="img">
+<defs><marker id="ah-gray" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6b7280"/></marker><marker id="ah-yellow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b7791f"/></marker><marker id="ah-purple" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6d28d9"/></marker><marker id="ah-orange" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#c2410c"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#0f766e"/></marker><marker id="ah-green" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#2f7d32"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b91c1c"/></marker><marker id="ah-blue" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#1d4ed8"/></marker></defs>
+<rect width="1240" height="960" fill="#ffffff"/>
+<rect x="40" y="98" width="570" height="640" rx="12" fill="#f6f9ff" stroke="#1d4ed8" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="56.0" y="122.0" font-size="13.5" fill="#1d4ed8" text-anchor="start" font-weight="700">跨链买入 · Base USDC → BSC meme</text>
+<rect x="650" y="98" width="570" height="640" rx="12" fill="#fffaf6" stroke="#c2410c" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="666.0" y="122.0" font-size="13.5" fill="#c2410c" text-anchor="start" font-weight="700">跨链卖出 · BSC meme → 任意已支持的链</text>
+<rect x="40" y="760" width="1180" height="120" rx="12" fill="#fafafa" stroke="#6b7280" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="56.0" y="784.0" font-size="13.5" fill="#6b7280" text-anchor="start" font-weight="700">插件钱包 · 只买本链代币（不经过金库）</text>
+<path d="M740.0,828.0 L930.0,828.0" fill="none" stroke="#b91c1c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-red)"/>
+<path d="M480.0,840.0 L310.0,840.0" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M310.0,818.0 L480.0,818.0" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,615.0 L992.0,615.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,559.0 L992.0,559.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,503.0 L992.0,503.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M972.0,503.0 L972.0,615.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M940.0,549.0 L972.0,549.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M716.0,580.0 L716.0,644.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M716.0,454.0 L716.0,518.0" fill="none" stroke="#6d28d9" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-purple)"/>
+<path d="M716.0,328.0 L716.0,392.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M716.0,202.0 L716.0,266.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M362.0,547.0 L382.0,547.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,547.0 L362.0,549.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M330.0,549.0 L362.0,549.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M362.0,331.0 L382.0,331.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,275.0 L382.0,275.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<path d="M362.0,275.0 L362.0,331.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M330.0,297.0 L362.0,297.0" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M106.0,580.0 L106.0,644.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M106.0,454.0 L106.0,518.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M106.0,328.0 L106.0,392.0" fill="none" stroke="#6d28d9" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-purple)"/>
+<path d="M106.0,202.0 L106.0,266.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<text x="40.0" y="46.0" font-size="22" fill="#1f2937" text-anchor="start" font-weight="700">图 11  我们的资金流转与收费</text>
+<text x="40.0" y="74.0" font-size="13" fill="#4b5563" text-anchor="start">实线 = 资金移动　虚线 = 内部记账 / 事件　红色 = 我们收的钱　灰色 = 用户承担的市场成本</text>
+<rect x="62" y="140" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="196.0" y="166.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 Base 地址</text>
+<text x="196.0" y="185.0" font-size="12" fill="#4b5563" text-anchor="middle">付出 10 USDC · gas 0</text>
+<rect x="62" y="266" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="196.0" y="292.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Base 金库</text>
+<text x="196.0" y="311.0" font-size="12" fill="#4b5563" text-anchor="middle">+10 USDC</text>
+<rect x="62" y="392" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="196.0" y="418.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">BSC 金库</text>
+<text x="196.0" y="437.0" font-size="12" fill="#4b5563" text-anchor="middle">拿出 10 − 费用</text>
+<rect x="62" y="518" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="196.0" y="544.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">BSC 聚合器</text>
+<text x="196.0" y="563.0" font-size="12" fill="#4b5563" text-anchor="middle">USDC → meme</text>
+<rect x="62" y="644" width="268" height="62" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="196.0" y="670.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 BSC 地址</text>
+<text x="196.0" y="689.0" font-size="12" fill="#4b5563" text-anchor="middle">收到 meme</text>
+<text x="116.0" y="230.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">10 USDC</text>
+<text x="116.0" y="246.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">（7702：approve + deposit）</text>
+<text x="116.0" y="364.0" font-size="12" fill="#6d28d9" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">内部账本 orderId</text>
+<text x="116.0" y="490.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">10 − 费用</text>
+<text x="116.0" y="616.0" font-size="12" fill="#1d4ed8" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">meme</text>
+<rect x="382" y="252" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="487.0" y="271.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">平台费 x bps</text>
+<text x="487.0" y="287.6" font-size="11" fill="#4b5563" text-anchor="middle">→ 费用账户</text>
+<rect x="382" y="308" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="487.0" y="327.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">gas 实报实销</text>
+<text x="487.0" y="343.6" font-size="11" fill="#4b5563" text-anchor="middle">源链 + 目标链</text>
+<rect x="382" y="524" width="210" height="46" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="487.0" y="543.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">DEX 费 + 价格冲击</text>
+<text x="487.0" y="559.6" font-size="11" fill="#4b5563" text-anchor="middle">用户承担</text>
+<rect x="672" y="140" width="268" height="62" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="806.0" y="166.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户 BSC 地址</text>
+<text x="806.0" y="185.0" font-size="12" fill="#4b5563" text-anchor="middle">持有 meme</text>
+<rect x="672" y="266" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="806.0" y="292.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">BSC 聚合器</text>
+<text x="806.0" y="311.0" font-size="12" fill="#4b5563" text-anchor="middle">meme → USDC</text>
+<rect x="672" y="392" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="806.0" y="418.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">BSC 金库</text>
+<text x="806.0" y="437.0" font-size="12" fill="#4b5563" text-anchor="middle">+USDC</text>
+<rect x="672" y="518" width="268" height="62" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="806.0" y="544.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">收款链金库</text>
+<text x="806.0" y="563.0" font-size="12" fill="#4b5563" text-anchor="middle">Base / Solana / …</text>
+<rect x="672" y="644" width="268" height="62" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="806.0" y="670.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户收款地址</text>
+<text x="806.0" y="689.0" font-size="12" fill="#4b5563" text-anchor="middle">USDC 或原生币</text>
+<text x="726.0" y="230.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">7702：approve + sell</text>
+<text x="726.0" y="246.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">（我们代付 gas）</text>
+<text x="726.0" y="364.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">USDC</text>
+<text x="726.0" y="490.0" font-size="12" fill="#6d28d9" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Sold 事件</text>
+<text x="726.0" y="616.0" font-size="12" fill="#c2410c" text-anchor="start" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">净额</text>
+<rect x="992" y="480" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1097.0" y="499.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">平台费 x bps</text>
+<text x="1097.0" y="515.6" font-size="11" fill="#4b5563" text-anchor="middle">→ 费用账户</text>
+<rect x="992" y="536" width="210" height="46" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1097.0" y="555.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">gas 实报实销</text>
+<text x="1097.0" y="571.6" font-size="11" fill="#4b5563" text-anchor="middle">目标链卖出 gas</text>
+<rect x="992" y="592" width="210" height="46" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="1097.0" y="611.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="700">要原生币就换</text>
+<text x="1097.0" y="627.6" font-size="11" fill="#4b5563" text-anchor="middle">同一笔交易里走 Jupiter / 0x</text>
+<rect x="70" y="800" width="240" height="56" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="190.0" y="823.9" font-size="14.5" fill="#1f2937" text-anchor="middle" font-weight="700">插件钱包</text>
+<text x="190.0" y="842.3" font-size="12" fill="#4b5563" text-anchor="middle">自己签名、自己付 gas</text>
+<rect x="480" y="800" width="260" height="56" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="610.0" y="823.9" font-size="14.5" fill="#1f2937" text-anchor="middle" font-weight="700">本链 DEX 聚合器</text>
+<text x="610.0" y="842.3" font-size="12" fill="#4b5563" text-anchor="middle">报价里带上我们的 fee 参数</text>
+<rect x="930" y="800" width="240" height="56" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1050.0" y="823.9" font-size="14.5" fill="#1f2937" text-anchor="middle" font-weight="700">我们的费用账户</text>
+<text x="1050.0" y="842.3" font-size="12" fill="#4b5563" text-anchor="middle">聚合器原生的 integrator fee</text>
+<text x="395.0" y="810.0" font-size="12" fill="#4b5563" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">swap 交易</text>
+<text x="395.0" y="858.0" font-size="12" fill="#4b5563" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">代币</text>
+<text x="835.0" y="820.0" font-size="12" fill="#b91c1c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">平台费</text>
+<text x="40.0" y="912.0" font-size="12.5" fill="#4b5563" text-anchor="start">两边金库的净差额由再平衡服务通过 CCTP / CEX 批量调拨，成本算进平台费。卖出的收费方式参考 Pump：bps + gas 实报实销。</text>
+<text x="40.0" y="934.0" font-size="12.5" fill="#4b5563" text-anchor="start">小额订单要设最低费用或最低下单金额，否则固定成本会吃掉利润（Pump 1 USDC 订单的来回损耗约 10%）。</text>
+</svg>

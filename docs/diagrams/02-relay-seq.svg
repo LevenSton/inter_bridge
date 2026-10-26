@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1220" width="1240" height="1220" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Source Han Sans SC, sans-serif" role="img">
+<defs><marker id="ah-gray" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6b7280"/></marker><marker id="ah-yellow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b7791f"/></marker><marker id="ah-purple" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#6d28d9"/></marker><marker id="ah-orange" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#c2410c"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#0f766e"/></marker><marker id="ah-green" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#2f7d32"/></marker><marker id="ah-red" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#b91c1c"/></marker><marker id="ah-blue" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0.8 L10,5 L0,9.2 z" fill="#1d4ed8"/></marker></defs>
+<rect width="1240" height="1220" fill="#ffffff"/>
+<rect x="52.0" y="176.0" width="1136.0" height="490.0" rx="10" fill="#f6f9ff" stroke="#1d4ed8" stroke-width="1.8" stroke-dasharray="8 5"/>
+<rect x="45.8" y="478.0" width="713.4" height="114.0" rx="10" fill="#fff8f8" stroke="#b91c1c" stroke-width="1.8" stroke-dasharray="8 5"/>
+<rect x="52.0" y="680.0" width="1136.0" height="394.0" rx="10" fill="#fffaf6" stroke="#c2410c" stroke-width="1.8" stroke-dasharray="8 5"/>
+<line x1="112.5" y1="158" x2="112.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<line x1="257.5" y1="158" x2="257.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<line x1="402.5" y1="158" x2="402.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<line x1="547.5" y1="158" x2="547.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<line x1="692.5" y1="158" x2="692.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<line x1="837.5" y1="158" x2="837.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<line x1="982.5" y1="158" x2="982.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<line x1="1127.5" y1="158" x2="1127.5" y2="1090" stroke="#c4c8cf" stroke-width="1.4" stroke-dasharray="5 5"/>
+<path d="M544.5,1056.0 L405.5,1056.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M1124.5,1016.0 L550.5,1016.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-orange)"/>
+<path d="M550.5,976.0 L1124.5,976.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M550.5,936.0 L979.5,936.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M550.5,896.0 L979.5,896.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M834.5,856.0 L550.5,856.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-orange)"/>
+<path d="M834.5,816.0 L695.5,816.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-orange)"/>
+<path d="M834.5,776.0 L405.5,776.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-orange)"/>
+<path d="M550.5,736.0 L834.5,736.0" fill="none" stroke="#c2410c" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-orange)"/>
+<path d="M544.5,574.0 L115.5,574.0" fill="none" stroke="#b91c1c" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-red)"/>
+<path d="M550.5,534.0 L689.5,534.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M405.5,408.0 L544.5,408.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-blue)"/>
+<path d="M115.5,368.0 L399.5,368.0" fill="none" stroke="#1d4ed8" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<path d="M254.5,272.0 L115.5,272.0" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-gray)"/>
+<path d="M115.5,232.0 L254.5,232.0" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#ah-gray)"/>
+<text x="40.0" y="46.0" font-size="22" fill="#1f2937" text-anchor="start" font-weight="700">图 2  Relay 跨链买单时序（Solana → BSC meme）</text>
+<text x="40.0" y="74.0" font-size="13" fill="#4b5563" text-anchor="start">实线 = 调用 / 资金，虚线 = 返回 / 事件；蓝框 = 用户在等的部分，橙框 = 异步结算</text>
+<rect x="49.0" y="104" width="127.0" height="54" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+<text x="112.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户</text>
+<text x="112.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">Solana 钱包</text>
+<rect x="194.0" y="104" width="127.0" height="54" rx="10" fill="#fdf3d7" stroke="#b7791f" stroke-width="2"/>
+<text x="257.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Relay API</text>
+<text x="257.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">报价</text>
+<rect x="339.0" y="104" width="127.0" height="54" rx="10" fill="#e8effc" stroke="#1d4ed8" stroke-width="2"/>
+<text x="402.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Depository</text>
+<text x="402.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">Solana</text>
+<rect x="484.0" y="104" width="127.0" height="54" rx="10" fill="#dcf5ef" stroke="#0f766e" stroke-width="2"/>
+<text x="547.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Solver</text>
+<text x="547.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">第三方</text>
+<rect x="629.0" y="104" width="127.0" height="54" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="692.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">BSC</text>
+<text x="692.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">DEX + 用户地址</text>
+<rect x="774.0" y="104" width="127.0" height="54" rx="10" fill="#fde8dc" stroke="#c2410c" stroke-width="2"/>
+<text x="837.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Oracle</text>
+<text x="837.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">签证明</text>
+<rect x="919.0" y="104" width="127.0" height="54" rx="10" fill="#efeafd" stroke="#6d28d9" stroke-width="2"/>
+<text x="982.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Relay Chain</text>
+<text x="982.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">Hub 账本</text>
+<rect x="1064.0" y="104" width="127.0" height="54" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="1127.5" y="127.1" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">Allocator</text>
+<text x="1127.5" y="144.8" font-size="11.5" fill="#4b5563" text-anchor="middle">NEAR MPC</text>
+<text x="185.0" y="224.0" font-size="12" fill="#4b5563" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">① 请求报价（1 USDC → meme）</text>
+<text x="185.0" y="264.0" font-size="12" fill="#4b5563" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">路线 + 费用 + 待签交易</text>
+<rect x="51.6" y="300" width="121.80000000000001" height="34" rx="10" fill="#fdf3d7" stroke="#b7791f" stroke-width="2"/>
+<text x="112.5" y="321.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="600">需要 SOL 付 gas</text>
+<text x="257.5" y="360.0" font-size="12" fill="#1d4ed8" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">② 签名并存款（带 orderId）</text>
+<text x="475.0" y="400.0" font-size="12" fill="#1d4ed8" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">存款事件</text>
+<rect x="486.6" y="436" width="121.79999999999995" height="34" rx="10" fill="#dcf5ef" stroke="#0f766e" stroke-width="2"/>
+<text x="547.5" y="457.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="600">模拟填单</text>
+<text x="620.0" y="526.0" font-size="12" fill="#1d4ed8" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">[可以填] ③ 自有 USDC 买 meme 转给用户</text>
+<text x="330.0" y="566.0" font-size="12" fill="#b91c1c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">[填不了] Fast Refund：源链直接退款</text>
+<text x="59.8" y="498.0" font-size="13" fill="#b91c1c" text-anchor="start" font-weight="700">alt 模拟结果</text>
+<rect x="51.6" y="620" width="701.8" height="34" rx="10" fill="#e3f5dc" stroke="#2f7d32" stroke-width="2"/>
+<text x="402.5" y="641.0" font-size="12.5" fill="#1f2937" text-anchor="middle" font-weight="600">用户拿到 meme，用户感知到这里结束</text>
+<text x="66.0" y="196.0" font-size="13" fill="#1d4ed8" text-anchor="start" font-weight="700">用户感知部分（约 1~4 s）</text>
+<text x="692.5" y="728.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">④ 请求证明</text>
+<text x="620.0" y="768.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">核对存款</text>
+<text x="765.0" y="808.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">核对填单</text>
+<text x="692.5" y="848.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">EIP-712 证明</text>
+<text x="765.0" y="888.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">⑤ 提交证明：MINT + TRANSFER 给 Solver</text>
+<text x="765.0" y="928.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">⑥ 提款：余额转入确定性地址并 BURN</text>
+<text x="837.5" y="968.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">⑦ 申请 MPC 提款证明</text>
+<text x="837.5" y="1008.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MPC 证明</text>
+<text x="475.0" y="1048.0" font-size="12" fill="#c2410c" text-anchor="middle" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">⑧ 提交证明，取回用户存款</text>
+<text x="66.0" y="700.0" font-size="13" fill="#c2410c" text-anchor="start" font-weight="700">异步结算（用户无感，成本算进报价）</text>
+<rect x="40.0" y="1120" width="370.6666666666667" height="64" rx="10" fill="#fde7e7" stroke="#b91c1c" stroke-width="2"/>
+<text x="225.3" y="1147.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">失败点：报价过期 / meme 滑点</text>
+<text x="225.3" y="1166.0" font-size="12" fill="#4b5563" text-anchor="middle">Solver 模拟失败就退款（Pump 实测 11.2%）</text>
+<rect x="434.6666666666667" y="1120" width="370.6666666666667" height="64" rx="10" fill="#fdf3d7" stroke="#b7791f" stroke-width="2"/>
+<text x="620.0" y="1147.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">用户要有源链 gas</text>
+<text x="620.0" y="1166.0" font-size="12" fill="#4b5563" text-anchor="middle">否则走 gasless，成本计入报价</text>
+<rect x="829.3333333333334" y="1120" width="370.6666666666667" height="64" rx="10" fill="#fde8dc" stroke="#c2410c" stroke-width="2"/>
+<text x="1014.7" y="1147.8" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="700">资金占用</text>
+<text x="1014.7" y="1166.0" font-size="12" fill="#4b5563" text-anchor="middle">Solver 垫资到 ⑧ 才回款，成本进点差</text>
+</svg>
